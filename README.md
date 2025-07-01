@@ -39,3 +39,5 @@ git clone https://github.com/wesooh/task-manager.git
 cd task-manager
 npm install
 npm run dev
+
+//vercel deployment link= https://mern-wk-3-wesleys-projects-2a2d1438.vercel.app/
